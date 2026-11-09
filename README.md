@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Daniel 👋
 
-<!--
-**danieldobarro/danieldobarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico de sistemas y redes especializado en **monitorización de infraestructura en producción**.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente: Monitoring Specialist en **InPost** (red de +6.000 taquillas inteligentes en España y Portugal)
+- 🎓 Estudiando **ASIR** (finalizo en 2027)
+- 🌱 Aprendiendo: **Microsoft Azure** y **Terraform**
+- 🎯 Objetivo: crecer hacia **Cloud Engineering y DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+Linux · Windows Server · Redes (DHCP, DNS) · Apache · MySQL · Kibana · VirtualBox
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/danieldobarro)
